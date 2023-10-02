@@ -1,11 +1,13 @@
 - 👋 Hi, I’m Sameer Ahmed, a Financial Computing undergraduate student
-- 👀 I’m eager to learn from experience proffesionals and academics in the FinTech area.
-- 🌱 I’m currently studying Financial Computing at the University of Liverpool 
-
+- 👀 I’m eager to learn from experience profesionals and academics in the FinTech area.
+- 🌱 I’m currently studying Financial Computing at the University of Liverpool
+ 
 
 - 📫 How to reach me!!
+
 - Here is my LinkedIn:
   https://www.linkedin.com/in/sameer-ahmed-0285681b2
+
 -Here is my email:
   sameerahmed9@outlook.com
 <!---
