@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sameer Ahmed, a Financial Computing undergraduate student
-- 👀 I’m eager to learn from experience profesionals and academics in the FinTech area.
+- 👀 I’m eager to learn from experienced proffesionals and academics in the FinTech area.
 - 🌱 I’m currently studying Financial Computing at the University of Liverpool
  
 
